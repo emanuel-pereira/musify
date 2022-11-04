@@ -1,1 +1,1 @@
-See the app running on: "https://streamify-videos.netlify.app"
+See the app running on: "https://musify-shazam.netlify.app"
